@@ -1,0 +1,7 @@
+#!name=自定义分流
+#!desc=对不满足filter要求的规则进行自定义重写
+#!author=shinerio
+#############################################
+
+; ios端chatgpt漏网之鱼
+host-suffix, chat.openai.com, OpenAI
